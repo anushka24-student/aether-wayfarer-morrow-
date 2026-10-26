@@ -1,54 +1,70 @@
-# Aether Wayfarer
+# ✦ Aether Wayfarer 🌙
 
-> An atmospheric fantasy exploration game built for the browser.
+> *An atmospheric journey into a world of fantasy, mystery, and discovery.* 
 
-🔗 **Play the Game:** [Aether Wayfarer](https://aetherway-cuc4pfp4.manus.game)
+<p align="center">
+  **Enter the Unknown · Discover the Unseen · Find Your Way**
+</p>
 
-## About the Project
+<p align="center">
+  <a href="https://aetherway-cuc4pfp4.manus.game">
+    <strong> Play Aether Wayfarer</strong>
+  </a>
+</p>
 
-Aether Wayfarer is a browser-based game project centered around a fantasy-themed experience. It represents my exploration of interactive experiences, game design, and bringing a creative idea to life.
+---
 
-The game is published online, allowing players to access it directly through their browser.
+## 🌠 About the Game
 
-## Features
+**Aether Wayfarer** is a browser-based fantasy game created to bring a creative vision to life through interactive gameplay and atmospheric world-building.
 
-- Browser-based gameplay
-- Fantasy-inspired theme and atmosphere
-- Interactive gaming experience
-- Accessible through a shareable live demo
+Designed as an accessible web experience, the project explores the intersection of imagination, game design, and interactive technology.
 
-*Note: Update this list to reflect the features actually implemented in the game.*
+## ✨ Highlights
 
-## Play the Game
+- **Fantasy-inspired experience** — an atmospheric world to explore.
+- **Interactive gameplay** — experience the game directly in your browser.
+- **Immersive aesthetic** — a creative approach to the fantasy-game experience.
+- **Instant access** — play online without a traditional installation.
 
-Experience Aether Wayfarer here:
+*The highlights above describe the intended project positioning; update them to match the features implemented in the game.*
 
-**[▶ Play Aether Wayfarer](https://aetherway-cuc4pfp4.manus.game)**
+## 🎮 Play the Game
 
-## Tech Stack
+Ready to begin your journey?
 
-The source code and framework details will be documented after reviewing the exported project files.
+<p align="center">
+  <a href="https://aetherway-cuc4pfp4.manus.game">
+    🌙 **ENTER AETHER WAYFARER** 🌙
+  </a>
+</p>
 
-- **Platform:** Web browser
-- **Development:** Manus-assisted game development
-- **Languages and frameworks:** To be confirmed from the source code
+🔗 **Live Demo:** https://aetherway-cuc4pfp4.manus.game
 
-## Project Goals
+## 🛠️ Built With
 
-- Explore browser-based game development.
-- Turn a creative concept into a playable experience.
-- Learn through iteration, testing, and refinement.
-- Build a foundation for future game development projects.
+- **Manus** — AI-assisted game creation
+- **Web technologies** — final languages and frameworks to be confirmed from the source code
 
-## Running Locally
+## 🧩 Project Goals
 
-Local setup instructions will be added after identifying the project's framework, dependencies, and required commands.
+- 💡 Transform a creative concept into a playable experience.
+- 🎮 Explore browser-based game development.
+- 🧪 Learn through experimentation, testing, and iteration.
+- 🚀 Build a foundation for future interactive projects.
 
-## Credits
+## 🧑‍💻 Development
 
-The game was developed with assistance from Manus. See the project files and asset licenses for applicable third-party credits.
+Created with curiosity, creativity, and a love for bringing ideas to life. 
 
-## License
+## 📜 Credits & License
 
-License to be determined after reviewing the ownership and usage rights of the source code and included assets.
+- Development assistance: Manus.
+- Third-party assets and attributions: document these according to their applicable licenses.
+- License: To be determined after reviewing the rights to the source code and assets.
 
+---
+
+<p align="center">
+  <i> Every journey begins beyond the familiar. </i>
+</p>
